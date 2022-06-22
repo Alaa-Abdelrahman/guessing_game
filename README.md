@@ -1,4 +1,4 @@
-### guessing game
+### Guessing game
 #### It is about the user guess number from one to fifteen and if equal the system generates 
 #### the user win, user must enter the number in range and before time out 
 
