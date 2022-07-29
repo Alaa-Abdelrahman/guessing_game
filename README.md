@@ -14,7 +14,7 @@
 
 
 #### Layered Architecture:
-![image](https://user-images.githubusercontent.com/91437169/175072038-5353ecdc-37b9-4b62-ae9e-dee317192b81.png)
+![image](![image](https://user-images.githubusercontent.com/91437169/181815376-dd80afae-6947-4e44-90ea-a91b5debab4f.png))
 
-[This is an external link to video test the app](https://drive.google.com/file/d/1v8wIr8uLgOig1GfNSuU-VfqnPneKutuQ/view?usp=sharing)
+[This is an external link to video test the app](https://drive.google.com/drive/folders/1OYIqiEUm3o2tcccvXoshxMSXPNSPN1sZ?usp=sharing)
 
